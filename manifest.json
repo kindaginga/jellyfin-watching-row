@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "5b1f0c3e-7d2a-4c86-9a41-2e6f8d0b9c17",
+    "name": "Watching Row",
+    "description": "Shows partly watched items and each series' next episode in one Continue Watching row, newest first, and hides the separate Next Up row on the home screen unless a setting keeps it.",
+    "overview": "One Continue Watching row, like streaming services",
+    "owner": "kindaginga",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.1.0.0",
+        "changelog": "Hides the separate Next Up row on the home screen unless the setting keeps it.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/kindaginga/jellyfin-watching-row/releases/download/v1.1.0.0/watching-row_1.1.0.0.zip",
+        "checksum": "7eedaaf209321b500c65484c31b6ebaa",
+        "timestamp": "2026-11-25T00:00:00Z"
+      }
+    ]
+  }
+]
